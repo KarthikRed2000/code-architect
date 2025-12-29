@@ -1,3 +1,6 @@
 .env
 .DS_Store
 /code-refract-rag
+
+node_modules
+dist
